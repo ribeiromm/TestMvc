@@ -13,5 +13,14 @@ namespace MvcMusicStore.Models
         public Artist Artist { get; set; }
 
         public Review Review { get; set; }
+		
+		
+		
+		
+		
+		
+		
+		
+		
     }
 }
